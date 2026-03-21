@@ -1,5 +1,14 @@
-# 🔐 Wireshark Network Analysis Portfolio
-# Junior Network Security Engineer: Safeguarding Networks with Precision and Expertise
+<h1 align="center">Hi 👋, I'm Ndabezihle Moyo</h1>
+<h3 align="center">🚀 Junior Network Security Engineer | Cybersecurity Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🔐 Passionate about **Cybersecurity & Penetration Testing**
+- 🌐 Skilled in **Network Security & Traffic Analysis**
+- 🛠️ Hands-on experience with real-world security tools
+- 📈 Continuously learning and building practical labs & projects
+- 🎯 Goal: To protect systems and build secure digital environments
 ## 📌 Overview
  As a dedicated Junior Network Security Engineer, I bring a fresh yet formidable skill set to fortify your organization's digital defenses against evolving cyber threats. With hands-on proficiency in industry-leading tools like pfSense, Wireshark, Nmap, Splunk, and Nessus, I excel at identifying vulnerabilities, optimizing traffic analysis, and ensuring robust network integrity—delivering results that minimize risks and maximize operational efficiency.
 
