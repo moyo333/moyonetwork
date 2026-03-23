@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ndabezihle Moyo</h1>
+<h2 align="center">Hi 👋, I'm Ndabezihle Moyo</h2>
 <h3 align="center">🚀 Junior Network Security Engineer | Cybersecurity Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me
+##<h2> 👨‍💻 About Me</h2>
 - 🔐 Passionate about **Cybersecurity & Penetration Testing**
 - 🌐 Skilled in **Network Security & Traffic Analysis**
 - 🛠️ Hands-on experience with real-world security tools
 - 📈 Continuously learning and building practical labs & projects
 - 🎯 Goal: To protect systems and build secure digital environments
-## 📌 Overview
+##<h3> 📌 Overview</h3>
  As a dedicated Junior Network Security Engineer, I bring a fresh yet formidable skill set to fortify your organization's digital defenses against evolving cyber threats. With hands-on proficiency in industry-leading tools like pfSense, Wireshark, Nmap, Splunk, and Nessus, I excel at identifying vulnerabilities, optimizing traffic analysis, and ensuring robust network integrity—delivering results that minimize risks and maximize operational efficiency.
 
-## 🧠 Skills Demonstrated
+##<h3> 🧠 Skills Demonstrated</h3>
 - Packet Analysis
 - Network Protocols (HTTP, DNS, TCP, ICMP, FTP, SSH)
 - Threat Detection
 - Malware Traffic Analysis
 - Nmap Scan Identification
 
-## 🔍 Labs Included
+## <h3>🔍 Labs Included</h3>
 
 ### 🌐 HTTP Analysis
 - Detect GET/POST requests
@@ -57,7 +57,7 @@
 - Detect executable downloads
 
 ## 📷 Screenshots
-(This Wireshark lab demonstrates not just technical skill, but the ability to analyze, interpret, and secure network environments effectively. By leveraging the advanced capabilities of Wireshark, one can confidently monitor traffic, detect threats, and ensure robust network performance.)https://moyo333.github.io/Wireshark_lab_project/
+(This Wireshark screenshot lab demonstrates not only technical skill but also the ability to analyze, interpret, and secure network environments effectively. By leveraging the advanced capabilities of Wireshark, it enables monitoring of traffic, detection of threats, and ensures robust network performance. )https://moyo333.github.io/Wireshark_lab_project/
 
 ## 🚀 Tools Used
 - Wireshark
